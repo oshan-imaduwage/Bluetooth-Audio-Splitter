@@ -12,7 +12,7 @@ Our device functions as a wireless Bluetooth splitter connecting multiple device
 <p align="center">
   
 <img src=https://github.com/user-attachments/assets/526176e6-ec3a-4680-b4bb-fa7807bccceb width="45%" />
-
+<hspace="2pt">
 <img src=https://github.com/user-attachments/assets/6c357a8c-7e67-46b1-9167-69e2a5697ab4 width="45%" />
 
 </p>
