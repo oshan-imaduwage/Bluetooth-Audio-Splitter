@@ -4,6 +4,5 @@
 Our device functions as a wireless Bluetooth splitter connecting multiple devices simultaneously. The user first pairs their mobile phone (or any other appropriate Bluetooth output device) and then pairs up to 4 Bluetooth earbuds, allowing them to hear seamless audio streams at once.
 
 ### PCB Design:
-main/Images/PCB.jpeg
-https://github.com/oshan-imaduwage/Bluetooth-Audio-Splitter/blob/c85255371f8fff18a5f5c2a35409b54fa7f5a91c/Images/PCB.jpeg
-/Images/PCB.jpeg
+
+![PCB](https://github.com/user-attachments/assets/2b466447-b296-441a-af4c-e84d4025e7cc)
