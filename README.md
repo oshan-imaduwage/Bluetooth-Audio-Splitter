@@ -6,3 +6,11 @@ Our device functions as a wireless Bluetooth splitter connecting multiple device
 ### PCB Design:
 
 ![PCB](https://github.com/user-attachments/assets/2b466447-b296-441a-af4c-e84d4025e7cc)
+
+### Enclosure Design:
+
+<p>
+![Enclosure_2](https://github.com/user-attachments/assets/526176e6-ec3a-4680-b4bb-fa7807bccceb)
+
+![Enclosure_3](https://github.com/user-attachments/assets/6c357a8c-7e67-46b1-9167-69e2a5697ab4)
+</p>
