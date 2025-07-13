@@ -5,3 +5,5 @@ Our device functions as a wireless Bluetooth splitter connecting multiple device
 
 ### PCB Design:
 main/Images/PCB.jpeg
+https://github.com/oshan-imaduwage/Bluetooth-Audio-Splitter/blob/c85255371f8fff18a5f5c2a35409b54fa7f5a91c/Images/PCB.jpeg
+/Images/PCB.jpeg
