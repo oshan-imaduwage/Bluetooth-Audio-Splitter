@@ -1,7 +1,7 @@
 # EN1190 - Engineering Design Project
 ## MercAp - Bluetooth Audio Splitter
 
-Our device functions as a wireless Bluetooth splitter connecting multiple devices simultaneously. The user first pairs their mobile phone (or any other appropriate Bluetooth output device) and then pairs up to 4 Bluetooth earbuds, allowing them to hear seamless audio streams at once. This device utilises the [KCX_BT_EMITTER Bluetooth Module](Datasheets and Documentation/KCX_BT_EMITTER Module Datasheet.pdf) for its functionality as a Transciever. 
+Our device functions as a wireless Bluetooth splitter connecting multiple devices simultaneously. The user first pairs their mobile phone (or any other appropriate Bluetooth output device) and then pairs up to 4 Bluetooth earbuds, allowing them to hear seamless audio streams at once. This device utilises the [KCX_BT_EMITTER Bluetooth Module](https://github.com/oshan-imaduwage/Bluetooth-Audio-Splitter/blob/cc0267eaddc94469d37add6bee9df074914774e9/Datasheets%20and%20Documentation/KCX_BT_EMITTER%20Module%20Datasheet.pdf) for its functionality as a Transciever. 
 
 ### Schematic Design:
 
