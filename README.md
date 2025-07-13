@@ -9,10 +9,10 @@ Our device functions as a wireless Bluetooth splitter connecting multiple device
 
 ### Enclosure Design:
 
-<p>
+<p align="center">
   
-![Enclosure_2](https://github.com/user-attachments/assets/526176e6-ec3a-4680-b4bb-fa7807bccceb)
+<img src=https://github.com/user-attachments/assets/526176e6-ec3a-4680-b4bb-fa7807bccceb width="45%" />
 
-![Enclosure_3](https://github.com/user-attachments/assets/6c357a8c-7e67-46b1-9167-69e2a5697ab4)
+<img src=https://github.com/user-attachments/assets/6c357a8c-7e67-46b1-9167-69e2a5697ab4 width="45%" />
 
 </p>
